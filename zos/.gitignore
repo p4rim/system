@@ -1,0 +1,7 @@
+# Archiso build workspace and generated ISO files
+/work/
+/work-zos-root/
+/out/
+
+# Generated preinstalled root filesystem archive
+/airootfs/usr/share/zos/rootfs.tar.zst

@@ -1,0 +1,6 @@
+NAME="Zen OS"
+PRETTY_NAME="Zen OS"
+ID=zenos
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;120;120;255"

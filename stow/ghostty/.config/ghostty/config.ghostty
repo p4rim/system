@@ -1,0 +1,35 @@
+# Font
+# font-family = Terminus
+# font-size = 24
+
+# font-family = Hack Nerd Font Mono
+font-family = JetbrainsMono Nerd Font
+# font-style = Regular
+# font-style-bold = Regular
+# font-style-italic = Regular
+font-style-bold-italic = Regular
+font-feature = -calt, -liga, -dlig
+confirm-close-surface = false
+
+# Theme
+
+# theme = Tomorrow Night Burns
+cursor-color = #FFFFFF
+
+# background = #11100F
+background = #000000
+foreground = #FFFFFF
+
+
+background-opacity = 0.9
+
+# Cursor
+
+cursor-style = block
+cursor-style-blink = true 
+shell-integration-features = no-cursor
+app-notifications = no-clipboard-copy
+
+# Misc
+
+window-save-state=always

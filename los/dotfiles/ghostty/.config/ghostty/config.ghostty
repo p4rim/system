@@ -1,0 +1,27 @@
+# Font
+
+font-family = Hack Nerd Font Mono
+font-feature = -calt, -liga, -dlig
+confirm-close-surface = false
+
+# Theme
+
+theme = Tomorrow Night Burns
+cursor-color = #FFFFFF
+
+background = #11100F
+foreground = #FFFFFF
+
+
+# background-opacity = 0.9
+
+# Cursor
+
+cursor-style = block
+cursor-style-blink = true 
+shell-integration-features = no-cursor
+app-notifications = no-clipboard-copy
+
+# Misc
+
+window-save-state=always

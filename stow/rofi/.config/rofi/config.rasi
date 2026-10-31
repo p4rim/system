@@ -1,0 +1,14 @@
+configuration {
+    modes: "drun,run,window";
+    show-icons: true;
+    display-drun: "Apps";
+    display-run: "Run";
+    display-window: "Windows";
+    drun-display-format: "{name}";
+    terminal: "kitty";
+    matching: "fuzzy";
+    sorting-method: "fzf";
+    sort: true;
+}
+
+@theme "Arc-Dark"

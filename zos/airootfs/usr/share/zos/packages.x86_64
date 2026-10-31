@@ -1,0 +1,11 @@
+base
+base-devel
+efibootmgr
+intel-ucode
+linux
+linux-firmware
+mkinitcpio
+networkmanager
+sudo
+nvidia-open
+neovim

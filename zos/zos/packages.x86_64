@@ -1,0 +1,146 @@
+# BASE SYSTEM
+
+base
+base-devel
+efibootmgr
+intel-ucode
+linux
+linux-firmware
+mkinitcpio
+networkmanager
+sudo
+nvidia-open
+
+# CORE DESKTOP / SYSTEM INTEGRATION
+
+dbus
+polkit
+xdg-desktop-portal
+xdg-desktop-portal-hyprland
+xdg-desktop-portal-gtk
+xdg-user-dirs
+xdg-utils
+qt5-wayland
+qt6-wayland
+keepassxc
+
+# HYPRLAND / WAYLAND
+
+hyprland
+hyprpaper
+hyprlock
+hypridle
+hyprpicker
+hyprpolkitagent
+
+xorg-xwayland
+waybar
+mako
+rofi
+grim
+slurp
+swappy
+wl-clipboard
+wev
+wf-recorder
+evince
+
+# AUDIO
+
+pipewire
+pipewire-audio
+pipewire-alsa
+pipewire-pulse
+wireplumber
+wiremix
+pavucontrol
+playerctl
+
+
+# TERMINALS
+
+kitty
+ghostty
+foot
+
+# EDITORS
+
+neovim
+emacs
+
+# SHELL / TERMINAL ENVIRONMENT
+
+zsh
+tmux
+stow
+zoxide
+
+btop
+fastfetch
+
+fzf
+fd
+ripgrep
+tree
+jq
+mpv
+
+# GIT / SOURCE CONTROL
+
+git
+github-cli
+
+# DEVELOPMENT
+
+rustup
+nodejs
+npm
+tree-sitter-cli
+
+# NETWORK / REMOTE
+
+curl
+wget
+rsync
+openssh
+
+# ARCHIVES / FILE UTILITIES
+
+unzip
+zip
+7zip
+thunar
+gvfs
+udisks2
+
+# DOCUMENTATION
+
+man-db
+man-pages
+
+# MEDIA
+
+ffmpeg
+yt-dlp
+
+# FONTS
+
+noto-fonts
+noto-fonts-cjk
+noto-fonts-emoji
+ttf-jetbrains-mono-nerd
+ttf-liberation-mono-nerd
+
+# APPLICATIONS
+
+chromium
+prismlauncher
+
+# OTHERs
+
+blueman
+gnome-themes-extra
+dconf
+gsettings-desktop-schemas
+adwaita-icon-theme
+egl-wayland
