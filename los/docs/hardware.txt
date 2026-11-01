@@ -1,8 +1,0 @@
-[]--------[Hardware]--------[]
-+ [CPU] Intel(R) Core(TM) i7-14700F (16+12) @ 5.40 GHz (Water cooled)
-+ [GPU] NVIDIA GeForce RTX 5060 Ti [Discrete]
-+ [Memory] Corsair Vengance 64 GiB DDR4 3200Mhz
-+ [Monitor] (LG ULTRAGEAR): 2560x1440 in 27", 180 Hz [External]
-+ [Keyboard] Kinesis advantage 2
-+ [Mouse] Razor Naga V2 Hyperspeed
-[]--------[Hardware]--------[]
