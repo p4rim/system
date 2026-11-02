@@ -42,6 +42,7 @@ fzf
 fd
 ripgrep
 tree
+tree-sitter-cli
 mpv
 git
 github-cli
