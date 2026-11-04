@@ -1,6 +1,6 @@
 # Font
 # font-family = Terminus
-# font-size = 24
+font-size = 20
 
 # font-family = Hack Nerd Font Mono
 font-family = JetbrainsMono Nerd Font
@@ -21,7 +21,7 @@ background = #000000
 foreground = #FFFFFF
 
 
-background-opacity = 0.9
+# background-opacity = 0.9
 
 # Cursor
 
