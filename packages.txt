@@ -61,6 +61,12 @@ rustup
 nodejs
 npm
 chromium
+pipewire
+pipewire-audio
+pipewire-alsa
+pipewire-pulse
+alsa-utils
+wireplumber
 noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
